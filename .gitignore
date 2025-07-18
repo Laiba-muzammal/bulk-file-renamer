@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Python virtual environments
+venv/
+ENV/
+env/
+
+# VS Code settings (if using)
+.vscode/
